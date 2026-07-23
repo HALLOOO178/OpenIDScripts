@@ -14,7 +14,7 @@
 
 const OpenIDConfig = {
     serverUrl: "https://openscid.netlify.app/",
-    useNullsConnect: true,
+    useNullsConnect: false,
     scidGameType: "laser",
     versionSuffix: "OpenID",
     useProd: false,
